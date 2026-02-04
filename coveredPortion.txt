@@ -1,0 +1,14 @@
+event - 
+
+addeventListner()
+Text - 
+innerText
+textContent
+innerHtml
+
+Attribute - 
+getAttribute
+setAttribute
+removeAttribute
+
+
