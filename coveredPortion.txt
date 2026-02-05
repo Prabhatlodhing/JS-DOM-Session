@@ -1,5 +1,19 @@
 event - 
 
+change
+mousemove
+target vs currentTarget
+e.preventDefault()
+
+Traversing - 
+DOM Travering, various keywords associated with this.
+
+
+stopPropogation (Bubbling and Capturing) - Later sessions
+
+
+
+
 addeventListner()
 Text - 
 innerText
@@ -10,5 +24,14 @@ Attribute -
 getAttribute
 setAttribute
 removeAttribute
+
+
+DOM Operations - 
+createElement
+append
+appendChild
+prepend - 
+insertBefore
+insertAdjacent
 
 
